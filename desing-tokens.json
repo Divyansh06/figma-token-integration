@@ -9,6 +9,14 @@
         "100": {
           "value": "#dcfbda",
           "type": "color"
+        },
+        "400": {
+          "value": "#c3f570",
+          "type": "color"
+        },
+        "600": {
+          "value": "#11af00",
+          "type": "color"
         }
       },
       "gray": {
