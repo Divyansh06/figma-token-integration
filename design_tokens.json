@@ -2,7 +2,7 @@
   "extended": {
     "green": {
       "50": {
-        "value": "#f4fdec",
+        "value": "red",
         "type": "color"
       },
       "100": {
